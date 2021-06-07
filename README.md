@@ -1,2 +1,1 @@
-# dh-und-recht
-Digital Humanities und Recht
+# DH und Recht
